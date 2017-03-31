@@ -39,6 +39,8 @@
   },
   "homepage": "https://github.com/angular/angular-seed#readme",
   "main": "karma.conf.js",
-  "dependencies": {},
+  "dependencies": {
+    "bower": "^1.8.0"
+  },
   "author": ""
 }

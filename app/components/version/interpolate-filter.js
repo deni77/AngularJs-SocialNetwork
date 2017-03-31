@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('myApp.version.interpolate-filter', [])
+angular.module('socialNetwork.version.interpolate-filter', [])
 
 .filter('interpolate', ['version', function(version) {
   return function(text) {
